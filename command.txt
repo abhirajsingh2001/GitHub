@@ -1,2 +1,4 @@
 // git hub new commands
 git revert commit-id
+git reset commit-id
+git merge branch-name
