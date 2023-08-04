@@ -1,1 +1,2 @@
 // git hub new commands
+git revert commit-id
