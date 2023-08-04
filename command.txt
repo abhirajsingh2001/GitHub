@@ -4,3 +4,6 @@ git reset commit-id
 git merge branch-name
 git stash
 git stash pop
+git branch -D staging
+git stash
+git stash pop
